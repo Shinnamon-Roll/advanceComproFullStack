@@ -1,0 +1,28 @@
+{
+  "name": "advancecomprofullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shinnamon-Roll/advanceComproFullStack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shinnamon-Roll/advanceComproFullStack/issues"
+  },
+  "homepage": "https://github.com/Shinnamon-Roll/advanceComproFullStack#readme",
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
